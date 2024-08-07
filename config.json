@@ -1,0 +1,44 @@
+{
+	"csv": "Concentración_de_Minerales.csv",
+	"categorias":
+[
+    {"nombre" : "Tecnologías de Inteligencia",
+    	"terminos" : [
+        "machine learning",
+        "ai",
+        "artificial intelligence",
+        "deep learning",
+        "predictive",
+        "smart"]
+    },
+    {
+    	"nombre" : "Tecnologías de automatización",
+    	"terminos" : [
+        "iot", 
+        "internet of things",
+        "robot", "robotic", "robotics",
+        "system integration",
+        "sensor",
+        "automation"]
+    },
+    {
+    	"nombre" : "Tecnologías de simulación e inmersión",
+    	"terminos":[
+        "simulation", "simulator",
+        "digital twin", "digital twins",
+        "virtual reality", "vr",
+        "augmented reality", "ar"]
+    },
+    {
+    	"nombre" : "Tecnologías relacionadas a datos",
+    	"terminos":[
+        "data", "big data",
+        "cloud",
+        "blockchain"]
+    },
+    {
+    	"nombre" : "Tecnologías de impresión 3d",
+    	"terminos":["3d"]
+    }
+]
+}
